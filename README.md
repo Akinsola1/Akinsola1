@@ -13,3 +13,6 @@ Feel free to look around my profile and explore my code. I love to share my reso
 ![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=green)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am human
+
+
+NB: Intrested in learning flutter?? check out my portfolio, it will definately motivate you. https://akinsola1.github.io/#/
