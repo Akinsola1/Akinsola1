@@ -1,5 +1,4 @@
 # Hi dev, i am Faruq Akinsola (Flutter Dev)
-![flutter](https://user-images.githubusercontent.com/68930312/147390973-ca89fb1b-e258-49df-9c0b-4faaa34f2ab8.png)
 I am currently a 3rd year computer science student working hard to master crossplatform technology like flutter.
 Feel free to look around my profile and explore my code. I love to share my resources and expertise with the dev community.Always leave a comment.🤗🙃
 
