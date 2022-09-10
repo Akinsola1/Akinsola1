@@ -16,4 +16,4 @@ Feel free to look around my profile and explore my code. I love to share my reso
 </p>
 
 
-NB: Intrested in learning Flutter?? check out my portfolio(it was built using FLutter), it will definately motivate you. https://akinsola1.github.io/#/
+NB: Intrested in learning Flutter?? check out my portfolio(it was built using FLutter), it will definately motivate you. https://akinsola.vercel.app/#/
