@@ -1,5 +1,5 @@
 # Hi dev, i am Faruq Akinsola (Flutter Dev)
-I am currently a 3rd year computer science student working hard to master crossplatform technology like Flutter.
+I am currently a final year computer science student working hard to master crossplatform technology like Flutter.
 Feel free to look around my profile and explore my code. I love to share my resources and expertise with the dev community.Always leave a comment.🤗🙃
 
 - 🔭 Currently building anything with Flutter.  
