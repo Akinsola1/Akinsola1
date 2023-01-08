@@ -2,12 +2,12 @@
 I am currently a final year computer science student working hard to master crossplatform technology like Flutter.
 Feel free to look around my profile and explore my code. I love to share my resources and expertise with the dev community.Always leave a comment.🤗🙃
 
-- 🔭 Currently building anything with Flutter.  
-- 🌱 I’m currently learning Flutter web and Desktop. 
-- 🤔 I’m looking for a backend partner.
-- 💬 Ask me about Anything! I will definately give you an answer.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love cats
+- 🔭 Building beautiful, fast apps with Flutter 
+- 🌱 Experienced in building efficient backends with Django 
+- 🤔 Looking for a collaborative partner for backend projects 
+- 💬 Available for technical discussions and happy to help with any questions you might have 
+- 😄 Pronouns: He/him 
+- ⚡ Fun fact: I'm a cat lover 
 
 ## Connect with me
 <p align="start">
