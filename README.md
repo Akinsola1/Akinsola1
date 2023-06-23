@@ -2,9 +2,9 @@
 I am currently a final year computer science student working hard to master crossplatform technology like Flutter.
 Feel free to look around my profile and explore my code. I love to share my resources and expertise with the dev community.Always leave a comment.🤗🙃
 
-- 🔭 Building beautiful, fast apps with Flutter 
+- 🔭 Skilled in creating stunning, high-performance Flutter apps
 - 🌱 Experienced in building efficient backends with Django 
-- 🤔 Looking for a collaborative partner for backend projects 
+- 🤝 Looking for job opportunities to contribute to Flutter and Django projects  
 - 💬 Available for technical discussions and happy to help with any questions you might have 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I'm a cat lover 
