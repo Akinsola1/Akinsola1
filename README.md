@@ -1,13 +1,12 @@
-# Hi dev, i am Faruq Akinsola (Flutter Dev)
-I am currently a final year computer science student working hard to master crossplatform technology like Flutter.
-Feel free to look around my profile and explore my code. I love to share my resources and expertise with the dev community.Always leave a comment.🤗🙃
+# Hi dev, i am Faruq Akinsola
+🚀 Recent Computer Science graduate 🎓 | Passionate Software Engineer 💻 | Fluent in React, Flutter, Django, Python, Dart, and Tailwind CSS 🚀 | Crafting innovative solutions to real-world challenges | Let's code something amazing together! 🌐✨
 
-- 🔭 Skilled in creating stunning, high-performance Flutter apps
-- 🌱 Experienced in building efficient backends with Django 
-- 🤝 Looking for job opportunities to contribute to Flutter and Django projects  
-- 💬 Available for technical discussions and happy to help with any questions you might have 
-- 😄 Pronouns: He/him 
-- ⚡ Fun fact: I'm a cat lover 
+- 🔭 Skilled in creating stunning, high-performance Flutter and React apps
+- 🌱 Experienced in building efficient backends with Django
+- - 🤝 Actively seeking job opportunities to contribute to Flutter, React, and Django projects
+- 💬 Available for technical discussions and happy to help with any questions you might have
+- 😄 Pronouns: He/him
+- ⚡ Curious mind: I just want to know how it works!
 
 ## Connect with me
 <p align="start">
