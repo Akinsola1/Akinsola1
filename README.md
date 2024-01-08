@@ -9,7 +9,3 @@
 - ⚡ Curious mind: I just want to know how it works!
 - 🌐 Portfolio: [Check out my portfolio](https://akinsola.vercel.app/#/)
 
-
-
-
-NB: Intrested in learning Flutter?? check out my portfolio(it was built using FLutter), it will definately motivate you. https://akinsola.vercel.app/#/
