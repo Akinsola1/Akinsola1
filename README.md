@@ -3,7 +3,7 @@
 
 - 🔭 Skilled in creating stunning, high-performance Flutter and React apps
 - 🌱 Experienced in building efficient backends with Django
-- - 🤝 Actively seeking job opportunities to contribute to Flutter, React, and Django projects
+- 🤝 Actively seeking job opportunities to contribute to Flutter, React, and Django projects
 - 💬 Available for technical discussions and happy to help with any questions you might have
 - 😄 Pronouns: He/him
 - ⚡ Curious mind: I just want to know how it works!
